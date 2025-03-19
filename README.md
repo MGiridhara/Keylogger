@@ -11,13 +11,13 @@ This script is for **educational purposes only**. Unauthorized use of keyloggers
 
 
 About This Script:-
-This is a **Python-based keylogger** that captures and logs keystrokes using the `pynput` library. It writes recorded keystrokes to a file (log.txt).
+This is a **Python-based keylogger** that captures and logs keystrokes using the 'pynput' library. It writes recorded keystrokes to a file (log.txt).
 
 
 How It Works:-
 - Listens for keyboard events (key presses and releases).
 - Logs pressed keys to 'log.txt'.
-- Stops recording when the `Esc` key is pressed.
+- Stops recording when the 'Esc' key is pressed.
 
 
 Requirements:-
@@ -33,7 +33,7 @@ Usage:-
    python keylogger.py
    ```
 2. **Press keys**, and they will be logged into `log.txt`.
-3. **Press `Esc`** to stop the keylogger.
+3. **Press 'Esc'** to stop the keylogger.
 
 
 How to Detect & Prevent Keyloggers
