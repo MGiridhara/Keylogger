@@ -28,12 +28,12 @@ pip install pynput
 
 
 Usage:-
-1. **Run the script**:
-   ```bash
+1. Run the script:
+   bash
    python keylogger.py
-   ```
-2. **Press keys**, and they will be logged into `log.txt`.
-3. **Press 'Esc'** to stop the keylogger.
+   
+2. Press keys, and they will be logged into `log.txt`.
+3. Press 'Esc' to stop the keylogger.
 
 
 How to Detect & Prevent Keyloggers
